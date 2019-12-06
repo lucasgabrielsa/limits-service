@@ -3,7 +3,7 @@ package com.lucasdev.microservices.limitsservice.bean;
 public class LimitConfiguration {
 	
 	private int maximum;
-	private int minimum;
+	private  int minimum;
 	
 	protected LimitConfiguration() {		
 	}
